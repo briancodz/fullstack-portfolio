@@ -31,6 +31,24 @@ export const projects = [
       image: "./covid.png",
       link: "https://covid-19-website-iota.vercel.app/",
     },
+
+    {
+      title: "LookRef",
+      subtitle: "PHP,Laravel ",
+      description:
+        "Simplifies the process of collecting and verifying professional references. Whether you're a job seeker or an employer, our platform allows individuals to easily add their references and get them verified directly by their previous employers.Ensures your references are credible and trustworthy, giving you a competitive edge in the job market or hiring process. ",
+      image: "./lookref.png",
+      link: "https://lookref.com/",
+    },
+    {
+      title: "ErrandWhiz",
+      subtitle: "PHP,Laravel",
+      description:
+        "Introducing ErrandWhiz, the web app that connects you with trusted errand runners in your area, making your life easier and more efficient. Whether you need groceries picked up, packages delivered, or any other task handled, our platform matches you with reliable, vetted runners ready to assist. With real-time tracking, secure payments, and an easy-to-use interface.",
+      image: "./errandwhiz.png",
+      link: "https://errandwhiz.one/",
+    },
+
   ];
   export const skills = [
     
